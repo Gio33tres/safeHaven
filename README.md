@@ -1,3 +1,10 @@
+npm i
+
+npm run dev
+
+To check the deployed version in Netlify:
+https://visionary-twilight-65f239.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
